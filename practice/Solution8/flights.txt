@@ -1,0 +1,14 @@
+San Francisco,Singapore,20.9
+San Francisco,London,10.4
+New York,London,6.50
+New York,San Francisco,6.16
+New York,Singapore,22.3
+New York,New Delhi,13.9
+London,New York,8.16
+London,San Francisco,11.3
+London,Nairobi,15.6
+New Delhi,New York,15.5
+New Delhi,Singapore,6.00
+Nairobi,Singapore,14.3
+Nairobi,London,15.5
+Nairobi,Lima,27.2
